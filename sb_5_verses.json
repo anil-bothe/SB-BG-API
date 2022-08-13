@@ -1,0 +1,2602 @@
+[
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.24"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.1.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.27"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.30"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.31"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.32"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.33"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.1.34"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.35"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.36"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.37"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.38"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.39"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.40"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.1.41"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.3"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.2.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.8"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.2.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.18"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.2.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.2.23"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.3.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.4-5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.3.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.3.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.9"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.4.10"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.4.11-12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.4.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.10-13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.16"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.5.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.21-22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.27"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.30"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.31"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.32"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.33"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.34"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.5.35"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.6.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.6.19"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.7.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.7.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.7.14"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.8.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.8.2"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.8.3"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.8.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.5"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.8.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.10"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.8.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.23"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.8.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.27"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.30"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.8.31"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.1-2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.9.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.9.7"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.9.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.9-10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.12"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.9.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.9.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.18"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.9.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.9.20"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.10.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.10.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.10.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.13-14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.11.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.5-6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.12.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.13.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.20"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.14.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.27"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.30"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.31"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.32"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.33"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.14.34"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.35"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.36"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.37"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.38"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.39"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.40"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.41"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.42"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.43"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.44"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.45"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.14.46"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.15.2"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.15.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.15.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.8"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.15.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.13"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.15.14-15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.15.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.8"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.10"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.11"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.12"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.13-14"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.16"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.17"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.20-21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.22"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.25"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.26"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.27"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.16.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.16.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.5"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.7"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.9"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.14"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.16"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.17"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.17.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.22-23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.17.24"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.18.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.18.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.13"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.18.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.18.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.23"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.18.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.27"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.30"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.31"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.32"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.33"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.18.34"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.35"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.36"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.37"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.38"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.18.39"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.19.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.2"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.19.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.10"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.19.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.19.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.17-18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.27"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.29-30"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.19.31"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.3-4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.5"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.7"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.8"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.9"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.10"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.11"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.12"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.13"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.14"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.17"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.18"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.19"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.20"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.23"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.24"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.25"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.26"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.27"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.28"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.30"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.31"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.32"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.33"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.34"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.35"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.36"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.37"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.38"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.39"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.40"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.41"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.42"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.43"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.44"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.20.45"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.20.46"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.21.3"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.5"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.7"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.8-9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.21.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.21.11"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.12"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.13"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.21.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.21.16"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.21.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.21.18"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.21.19"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.2"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.3"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.5"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.6"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.22.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.22.8"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.9"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.22.11"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.12"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.13"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.14"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.22.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.22.17"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.23.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.23.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.23.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.23.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.23.5"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.23.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.23.7"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.23.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.23.9"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.1"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.3"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.4"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.5"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.8"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.9"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.10"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.11"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.12"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.14"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.18"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.21"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.22"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.26"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.27"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.24.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.30"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.24.31"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.25.2"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.3"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.25.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.25.7"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.8"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.10"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.25.11"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.25.12"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.25.13"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.25.15"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.1"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.2"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.3"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.4"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.5"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.6"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.7"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.8"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.9"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.10"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.11"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.12"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.13"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.14"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.15"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.16"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.17"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.18"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.19"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.20"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.21"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.22"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.23"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.24"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.25"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.26"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.27"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.28"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.29"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.30"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.31"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.32"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.33"
+    },
+    {
+        "purport_exist": false,
+        "sloka": "ŚB 5.26.34"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.35"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.36"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.37"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.38"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.39"
+    },
+    {
+        "purport_exist": true,
+        "sloka": "ŚB 5.26.40"
+    }
+]
